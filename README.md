@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Monil Nisar</h1>
-<h3 align="center">I completed my Masters's Degree in Computer Science at Arizona State University. I currently work for Workspaces Team @Google</h3>
+<h3 align="center">I completed my Masters's Degree in Computer Science at Arizona State University in May 2021. I currently work for Workspaces Team @Google.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnisar&label=Profile%20views&color=0e75b6&style=flat" alt="mnisar" /> </p>
 
